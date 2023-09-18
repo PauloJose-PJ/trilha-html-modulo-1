@@ -1,4 +1,7 @@
-# Trilha HTML - Dio.me
+#Informações Pessoais
+Apesar de já saber o básico HTML e pouco de CSS e JS. Estou relembrando e pegando algumas bisus (dicas) que em outros começos não vir... Sempre travando mas progretindo!! Que a força esteja com Nós!
+
+## Trilha HTML - Dio.me
 ## Módulo 01 - Primeiros passos com HTML
 
 A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
