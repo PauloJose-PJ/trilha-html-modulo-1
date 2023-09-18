@@ -1,4 +1,4 @@
-#Informações Pessoais
+# Informações Pessoais
 Apesar de já saber o básico HTML e pouco de CSS e JS. Estou relembrando e pegando algumas bisus (dicas) que em outros começos não vir... Sempre travando mas progretindo!! Que a força esteja com Nós!
 
 ## Trilha HTML - Dio.me
