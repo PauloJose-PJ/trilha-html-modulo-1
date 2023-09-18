@@ -1,5 +1,5 @@
 # Informações Pessoais
-Apesar de já saber o básico HTML e pouco de CSS e JS. Estou relembrando e pegando algumas bisus (dicas) que em outros começos não vir... Sempre travando mas progretindo!! Que a força esteja com Nós!
+Apesar de já saber o básico de HTML e pouco de CSS e JS. Estou relembrando e pegando algumas bisus (dicas) que em outros começos não vi... Sempre travando mas progredindo!! Que a força esteja com Nós!
 
 ## Trilha HTML - Dio.me
 ## Módulo 01 - Primeiros passos com HTML
